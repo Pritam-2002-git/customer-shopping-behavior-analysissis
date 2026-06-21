@@ -1,3 +1,6 @@
+## Dashboard Preview
+
+![Customer Behavior Dashboard](dashboard.png.png)
 # Customer Shopping Behavior Analysis
 
 ## Overview
