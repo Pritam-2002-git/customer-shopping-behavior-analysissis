@@ -58,13 +58,18 @@ This project analyzes customer shopping behavior using transactional data from 3
 
 ## Repository Structure
 
+
+customer-shopping-behavior-analysis
+│
 ├── Customer_Shopping_Behavior_Analysis.ipynb
 ├── customer_behavior_sql_queries.sql
 ├── customer_behavior_dashboard.pbix
 ├── customer_shopping_behavior.csv
+├── dashboard.png.png
 ├── Customer Shopping Behavior Analysis.pdf
 ├── Customer-Shopping-Behavior-Analysis.pptx
 └── README.md
+
 
 ## Author
 Pritam Mahamansingh
